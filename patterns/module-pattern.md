@@ -4,13 +4,22 @@ The Module Pattern is a design pattern that encapsulates code into a self-contai
 
 ## 📋 Table of Contents
 
-- [Core Concepts](#core-concepts)
-- [Implementation Approaches](#implementation-approaches)
-- [Benefits](#benefits)
-- [Implementation Guide](#implementation-guide)
-- [Examples](#examples)
-- [Common Pitfalls](#common-pitfalls)
-- [Resources](#resources)
+- [Module Pattern 📦](#module-pattern-)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [🎯 Core Concepts](#-core-concepts)
+  - [🔄 Implementation Approaches](#-implementation-approaches)
+    - [1. File-based Modules](#1-file-based-modules)
+    - [2. Custom Hooks](#2-custom-hooks)
+    - [3. Component Composition](#3-component-composition)
+    - [4. Context Modules](#4-context-modules)
+  - [🌟 Benefits](#-benefits)
+  - [🚀 Implementation Guide](#-implementation-guide)
+    - [Creating a Module with Custom Hooks](#creating-a-module-with-custom-hooks)
+  - [💻 Examples](#-examples)
+    - [Custom Hook Module Example](#custom-hook-module-example)
+    - [Context Module Example](#context-module-example)
+  - [⚠️ Common Pitfalls](#️-common-pitfalls)
+  - [📚 Resources](#-resources)
 
 ## 🎯 Core Concepts
 
